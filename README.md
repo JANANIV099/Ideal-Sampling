@@ -7,6 +7,7 @@ Tools required:
  python colab (for simulation)
  
 Program:
+~~~
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -28,7 +29,7 @@ plt.title("Ideal Sampling")
 plt.legend()
 plt.grid(True)
 plt.show()
-
+~~~
 Output Waveform:
 ![WhatsApp Image 2025-03-22 at 15 37 18_3b4ba1ce](https://github.com/user-attachments/assets/7d3bac2d-87b0-4e7d-a058-a6029feac86e)
 
